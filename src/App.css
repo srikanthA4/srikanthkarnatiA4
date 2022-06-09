@@ -37,7 +37,7 @@ body {
 }
 
 body.active {
-  --black: blue;
+  --black: #fff;
   --light-color: #ddd;
   --bg-color: black;
   --border: 0.1rem solid gray;
