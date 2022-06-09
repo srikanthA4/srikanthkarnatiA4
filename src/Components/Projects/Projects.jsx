@@ -147,7 +147,7 @@ export const Projects = () => {
               </h3>
               <h3>
               
-This project is done to check any dishes with respect to main ingredients and to show the recipes of respective dishes. This project is done in unit-3 at Masai School.
+This project is done to check any dishes with respect to main ingredients and to show the recipes of respective dishes.
               </h3>
             </NewDiv>
           </div>
