@@ -195,7 +195,7 @@ This project is done to check any dishes with respect to main ingredients and to
           </div>
 
           <div className="box">
-            <img src="Images/Translator_API.png" alt="" />
+            <img src="https://github.com/srikanthA4/images/blob/main/tranlator.png?raw=true" alt="" />
             <div className="content">
               <h3>Translation-app</h3>
               <div
