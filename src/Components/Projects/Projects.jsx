@@ -104,53 +104,7 @@ export const Projects = () => {
               URL shortener it is full stack application that allows users to shorten long URL</h3>
             </NewDiv>
           </div>
-//           <div className="box">
-//             <img src="Images/Dishes_website.png" alt="" />
-//             <div className="content">
-//               <h3>Food App</h3>
-//               <div
-//                 style={{
-//                   display: "flex",
-//                   justifyContent: "space-around",
-//                   width: "40%",
-//                 }}
-//               >
-//                 <a
-//                   className="icons-git"
-//                   target="_blank"
-//                   rel="noreferrer"
-//                   href="https://github.com/Ganesh-S-Prabhu/Dishes-website"
-//                 >
-//                   <img
-//                     style={{ height: "100%", width: "100%" }}
-//                     src="/Images/github-brands.svg"
-//                     alt=""
-//                   />
-//                 </a>
-//                 <a
-//                   className="icons-git"
-//                   href="https://sage-treacle-a7a6e7.netlify.app/"
-//                   target="_blank"
-//                   rel="noreferrer"
-//                 >
-//                   <img
-//                     style={{ height: "100%", width: "100%" }}
-//                     src="/Images/globe-solid.svg"
-//                     alt=""
-//                   />
-//                 </a>
-//               </div>
-//             </div>
-//             <NewDiv>
-//               <h3>
-//                 Built with HTML, CSS, Javascript.
-//               </h3>
-//               <h3>
-              
-// This project is done to check any dishes with respect to main ingredients and to show the recipes of respective dishes.
-//               </h3>
-//             </NewDiv>
-//           </div>
+
           <div className="box">
             <img src="https://github.com/srikanthA4/images/blob/main/wea.png?raw=true" alt="" />
             <div className="content">
