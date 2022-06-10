@@ -29,10 +29,10 @@ export const About = () => {
 
             <a
               className="btn"
-              href="https://drive.google.com/file/d/1ImHUZvjzkcNPb8-HkUpk0iKSxSp-u6LK/view?usp=sharing"
+              href="https://drive.google.com/file/d/1EfhCsrJDq1X84jRHCZXvlqDwVbad4LfX/view?usp=sharing"
               target="_blank"
             >
-              Download Resume
+              Resume
             </a>
           </div>
         </div>
