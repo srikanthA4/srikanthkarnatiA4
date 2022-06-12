@@ -30,7 +30,7 @@ export const Home = () => {
           </p>
           <a
             className="btn"
-            href="https://drive.google.com/file/d/1EfhCsrJDq1X84jRHCZXvlqDwVbad4LfX/view?usp=sharing"
+            href="https://drive.google.com/file/d/1WA_-pkM6VxwxGqxd8fnoJmXvPV1NE_Nr/view?usp=sharing"
             target="_blank"
           >
              Resume
