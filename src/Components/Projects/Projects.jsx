@@ -60,9 +60,9 @@ export const Projects = () => {
             </NewDiv>
           </div>
           <div className="box">
-            <img src="https://github.com/srikanthA4/images/blob/main/url.png?raw=true" alt="" />
+            <img src="https://github.com/srikanthA4/images/blob/main/call.png?raw=true" alt="" />
             <div className="content">
-              <h3>URL shortener</h3>
+              <h3>let meet buddy</h3>
 
               <div
                 style={{
@@ -75,7 +75,7 @@ export const Projects = () => {
                   className="icons-git"
                   target="_blank"
                   rel="noreferrer"
-                  href="https://github.com/srikanthA4/url-shortener-frontend"
+                  href="https://github.com/srikanthA4/let-meet-buddy-frontend"
                 >
                   <img
                     style={{ height: "100%", width: "100%" }}
@@ -87,7 +87,7 @@ export const Projects = () => {
                   className="icons-git"
                   target="_blank"
                   rel="noreferrer"
-                  href="https://srikantha4url-shortener.netlify.app/"
+                  href="http://let-meet-buddy.vercel.app/"
                 >
                   <img
                     style={{ height: "100%", width: "100%" }}
@@ -99,9 +99,10 @@ export const Projects = () => {
             </div>
             
             <NewDiv>
-              <h3>HTML,CSS,Bootstrap,Nodejs,Expressjs,MONGODB</h3>
+              <h3>React.js, Socket.io and Peer.js</h3>
               <h3>
-              URL shortener it is full stack application that allows users to shorten long URL</h3>
+                let meet buddy is a app which is used to make video call and make fun with buddies
+              </h3>
             </NewDiv>
           </div>
           {<div className="box">
@@ -152,9 +153,9 @@ export const Projects = () => {
             </NewDiv>
           </div>}
           <div className="box">
-            <img src="https://github.com/srikanthA4/images/blob/main/wea.png?raw=true" alt="" />
+            <img src="https://github.com/srikanthA4/images/blob/main/url.png?raw=true" alt="" />
             <div className="content">
-              <h3>Weather-app</h3>
+              <h3>URL shortener</h3>
               <div
                 style={{
                   display: "flex",
@@ -166,7 +167,7 @@ export const Projects = () => {
                   className="icons-git"
                   target="_blank"
                   rel="noreferrer"
-                  href="https://github.com/srikanthA4/weather-app"
+                  href="https://github.com/srikanthA4/url-shortener-frontend"
                 >
                   <img
                     style={{ height: "100%", width: "100%" }}
@@ -176,7 +177,7 @@ export const Projects = () => {
                 </a>
                 <a
                   className="icons-git"
-                  href="https://sriweatherapp.netlify.app/"
+                  href="https://srikantha4url-shortener.netlify.app/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -189,8 +190,8 @@ export const Projects = () => {
               </div>
             </div>
             <NewDiv>
-              <h3>Built with HTML, Javascript, CSS.</h3>
-              <h3>This project is done to check 7 days weather-Details of a city.</h3>
+              <h3>HTML,CSS,Bootstrap,Nodejs,Expressjs,MONGODB.</h3>
+              <h3> URL shortener it is full stack application that allows users to shorten long URL.</h3>
             </NewDiv>
           </div>
 
