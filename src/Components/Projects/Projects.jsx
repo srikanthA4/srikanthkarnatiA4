@@ -104,10 +104,10 @@ export const Projects = () => {
               URL shortener it is full stack application that allows users to shorten long URL</h3>
             </NewDiv>
           </div>
-          {/* <div className="box">
-            <img src="Images/Dishes_website.png" alt="" />
+          {<div className="box">
+            <img src="https://github.com/srikanthA4/images/blob/main/aMAZON%20CLONE.png?raw=true" alt="" />
             <div className="content">
-              <h3>Food App</h3>
+              <h3>Amazon clone</h3>
               <div
                 style={{
                   display: "flex",
@@ -119,7 +119,7 @@ export const Projects = () => {
                   className="icons-git"
                   target="_blank"
                   rel="noreferrer"
-                  href="https://github.com/Ganesh-S-Prabhu/Dishes-website"
+                  href="https://github.com/srikanthA4/amazonclone"
                 >
                   <img
                     style={{ height: "100%", width: "100%" }}
@@ -129,7 +129,7 @@ export const Projects = () => {
                 </a>
                 <a
                   className="icons-git"
-                  href="https://sage-treacle-a7a6e7.netlify.app/"
+                  href="http://amazonclone-phi.vercel.app/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -143,14 +143,14 @@ export const Projects = () => {
             </div>
             <NewDiv>
               <h3>
-                Built with HTML, CSS, Javascript.
+                Built with Mongodb,Express,React,Nodejs .
               </h3>
               <h3>
               
-This project is done to check any dishes with respect to main ingredients and to show the recipes of respective dishes. This project is done in unit-3 at Masai School.
+    An app called Amazon clone  with Fully Functioning AMAZON CLONE Website with Stripe Payment Gateway and Firebase Hoisting
               </h3>
             </NewDiv>
-          </div> */}
+          </div>}
           <div className="box">
             <img src="https://github.com/srikanthA4/images/blob/main/wea.png?raw=true" alt="" />
             <div className="content">
