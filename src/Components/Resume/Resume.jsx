@@ -130,7 +130,7 @@ export const Resume = () => {
           </Card>
           <Card>
             <Image>
-              <img src="https://uxwing.com/postman-icon/" alt="" />
+              <img src="/Images/postman.png" alt="" />
             </Image>
             <Text>
               <span id="span" className="heading ">
