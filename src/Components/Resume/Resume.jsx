@@ -120,7 +120,7 @@ export const Resume = () => {
         <Skills>
           <Card>
             <Image>
-              <img src="/Images/vs.png" alt="" />
+              <img src="https://code.visualstudio.com/assets/branding/spacing.jpg" alt="" />
             </Image>
             <Text>
               <span id="span" className="heading ">
