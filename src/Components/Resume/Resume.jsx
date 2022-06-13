@@ -76,7 +76,7 @@ export const Resume = () => {
 
           <Card>
             <Image>
-              <img src="/Images/nodejs.png" alt="" />
+              <img src="https://www.steemasoftware.com/images/Nodejs.png" alt="" />
             </Image>
             <Text>
             
@@ -130,7 +130,7 @@ export const Resume = () => {
           </Card>
           <Card>
             <Image>
-              <img src="/Images/postman.png" alt="" />
+              <img src="https://nkonev.name/post/178" alt="" />
             </Image>
             <Text>
               <span id="span" className="heading ">
