@@ -130,7 +130,7 @@ export const Projects = () => {
                 </a>
                 <a
                   className="icons-git"
-                  href="http://amazonclone-phi.vercel.app/"
+                  href="https://clone-36782.web.app/"
                   target="_blank"
                   rel="noreferrer"
                 >
