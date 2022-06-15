@@ -16,7 +16,7 @@ export const Projects = () => {
 
        <div className="box-container">
         <div className="box">
-            <img src="https://github.com/srikanthA4/images/blob/main/postshare.png?raw=true" alt="" />
+            <img src=" https://github.com/srikanthA4/images/blob/main/cloud.png?raw=true " alt="" />
             <div className="content">
               <h3>post share</h3>
 
@@ -31,7 +31,7 @@ export const Projects = () => {
                   className="icons-git"
                   target="_blank"
                   rel="noreferrer"
-                  href="https://github.com/srikanthA4/post-share-frontend"
+                  href="https://github.com/srikanthA4/file-storage-mern"
                 >
                   <img
                     style={{ height: "100%", width: "100%" }}
@@ -43,7 +43,7 @@ export const Projects = () => {
                   className="icons-git"
                   target="_blank"
                   rel="noreferrer"
-                  href="https://postshare.netlify.app/"
+                  href="http://file-storage-mern.vercel.app/"
                 >
                   <img
                     style={{ height: "100%", width: "100%" }}
@@ -56,7 +56,7 @@ export const Projects = () => {
             <NewDiv>
               <h3>Built with Mongodb,Express,React,Nodejs </h3>
               <h3>
-              A  Post share is a simple social media application with users, posts, likes and comments</h3>
+              This is a web application where you can upload and store your files.  Files can be sorted, filtered and deleted. Saved files can later be downloaded to any of your own devices.</h3>
             </NewDiv>
           </div>
           <div className="box">
@@ -153,7 +153,7 @@ export const Projects = () => {
             </NewDiv>
           </div>}
           <div className="box">
-            <img src="https://github.com/srikanthA4/images/blob/main/url.png?raw=true" alt="" />
+            <img src="https://github.com/srikanthA4/images/blob/main/postshare.png?raw=true" alt="" />
             <div className="content">
               <h3>URL shortener</h3>
               <div
@@ -167,7 +167,7 @@ export const Projects = () => {
                   className="icons-git"
                   target="_blank"
                   rel="noreferrer"
-                  href="https://github.com/srikanthA4/url-shortener-frontend"
+                  href="https://github.com/srikanthA4/post-share-frontend"
                 >
                   <img
                     style={{ height: "100%", width: "100%" }}
@@ -177,7 +177,7 @@ export const Projects = () => {
                 </a>
                 <a
                   className="icons-git"
-                  href="https://srikantha4url-shortener.netlify.app/"
+                  href="https://postshare.netlify.app/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -191,7 +191,7 @@ export const Projects = () => {
             </div>
             <NewDiv>
               <h3>HTML,CSS,Bootstrap,Nodejs,Expressjs,MONGODB.</h3>
-              <h3> URL shortener it is full stack application that allows users to shorten long URL.</h3>
+              <h3>  A  Post share is a simple social media application with users, posts, likes and comments.</h3>
             </NewDiv>
           </div>
 
