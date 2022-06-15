@@ -18,7 +18,7 @@ export const Projects = () => {
         <div className="box">
             <img src=" https://github.com/srikanthA4/images/blob/main/cloud.png?raw=true " alt="" />
             <div className="content">
-              <h3>post share</h3>
+              <h3>file storage cloud</h3>
 
               <div
                 style={{
@@ -155,7 +155,7 @@ export const Projects = () => {
           <div className="box">
             <img src="https://github.com/srikanthA4/images/blob/main/postshare.png?raw=true" alt="" />
             <div className="content">
-              <h3>URL shortener</h3>
+              <h3>Post App</h3>
               <div
                 style={{
                   display: "flex",
