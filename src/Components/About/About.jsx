@@ -29,7 +29,7 @@ export const About = () => {
 
             <a
               className="btn"
-              href="https://drive.google.com/file/d/1WA_-pkM6VxwxGqxd8fnoJmXvPV1NE_Nr/view?usp=sharing"
+              href="https://drive.google.com/file/d/13Ah6TlH-noVnPMA1EZpfNSZAKn0siqrp/view?usp=sharing"
               target="_blank"
             >
               Resume
