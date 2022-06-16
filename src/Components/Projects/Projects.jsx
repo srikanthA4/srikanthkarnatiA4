@@ -125,7 +125,7 @@ export const Projects = () => {
             <NewDiv>
               <h3>React.js, Socket.io and Peer.js</h3>
               <h3>
-                let meet buddy is a app which is used to make video call and make fun with buddies
+                 meet buddy is a app which is used to make video call and make fun with buddies
               </h3>
             </NewDiv>
           </div>
