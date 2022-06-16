@@ -24,7 +24,7 @@ export const Projects = () => {
                 style={{
                   display: "flex",
                   justifyContent: "space-around",
-                  width: "40%",
+                  width: "60%",
                 }}
               >
                 <a
@@ -36,6 +36,18 @@ export const Projects = () => {
                   <img
                     style={{ height: "100%", width: "100%" }}
                     src="/Images/github-brands.svg"
+                    alt=""
+                  />
+                </a>
+                <a
+                  className="icons-git"
+                  target="_blank"
+                  rel="noreferrer"
+                  href="https://github.com/srikanthA4/file-storage-server"
+                >
+                  <img
+                    style={{ height: "100%", width: "100%" }}
+                    src="https://cdn-icons-png.flaticon.com/512/7269/7269982.png"
                     alt=""
                   />
                 </a>
@@ -62,13 +74,13 @@ export const Projects = () => {
           <div className="box">
             <img src="https://github.com/srikanthA4/images/blob/main/call.png?raw=true" alt="" />
             <div className="content">
-              <h3>let meet buddy</h3>
+              <h3>meet buddy</h3>
 
               <div
                 style={{
                   display: "flex",
                   justifyContent: "space-around",
-                  width: "40%",
+                  width: "60%",
                 }}
               >
                 <a
@@ -80,6 +92,18 @@ export const Projects = () => {
                   <img
                     style={{ height: "100%", width: "100%" }}
                     src="/Images/github-brands.svg"
+                    alt=""
+                  />
+                </a>
+                 <a
+                  className="icons-git"
+                  target="_blank"
+                  rel="noreferrer"
+                  href="https://github.com/srikanthA4/let-meet-buddy-backend"
+                >
+                  <img
+                    style={{ height: "100%", width: "100%" }}
+                    src="https://cdn-icons-png.flaticon.com/512/7269/7269982.png"
                     alt=""
                   />
                 </a>
@@ -113,7 +137,7 @@ export const Projects = () => {
                 style={{
                   display: "flex",
                   justifyContent: "space-around",
-                  width: "40%",
+                  width: "60%",
                 }}
               >
                 <a
@@ -125,6 +149,18 @@ export const Projects = () => {
                   <img
                     style={{ height: "100%", width: "100%" }}
                     src="/Images/github-brands.svg"
+                    alt=""
+                  />
+                </a>
+                <a
+                  className="icons-git"
+                  target="_blank"
+                  rel="noreferrer"
+                  href="https://github.com/srikanthA4/amazonclone/tree/main/functions"
+                >
+                  <img
+                    style={{ height: "100%", width: "100%" }}
+                    src="https://cdn-icons-png.flaticon.com/512/7269/7269982.png"
                     alt=""
                   />
                 </a>
@@ -160,7 +196,7 @@ export const Projects = () => {
                 style={{
                   display: "flex",
                   justifyContent: "space-around",
-                  width: "40%",
+                  width: "60%",
                 }}
               >
                 <a
@@ -172,6 +208,18 @@ export const Projects = () => {
                   <img
                     style={{ height: "100%", width: "100%" }}
                     src="/Images/github-brands.svg"
+                    alt=""
+                  />
+                </a>
+                <a
+                  className="icons-git"
+                  target="_blank"
+                  rel="noreferrer"
+                  href="https://github.com/srikanthA4/post-share-backend"
+                >
+                  <img
+                    style={{ height: "100%", width: "100%" }}
+                    src="https://cdn-icons-png.flaticon.com/512/7269/7269982.png"
                     alt=""
                   />
                 </a>
@@ -203,7 +251,7 @@ export const Projects = () => {
                 style={{
                   display: "flex",
                   justifyContent: "space-around",
-                  width: "40%",
+                  width: "60%",
                 }}
               >
                 <a
