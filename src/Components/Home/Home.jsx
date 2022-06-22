@@ -30,7 +30,7 @@ export const Home = () => {
           </p>
           <a
             className="btn"
-            href="https://github.com/srikanthA4/images/blob/main/Srikanth's%20Resume%20(3).pdf"
+            href="https://drive.google.com/file/d/1qQrsgbp6kLzJhgCfHoOXKe59sZDakus0/view?usp=sharing"
             target="_blank"
           >
              Resume
