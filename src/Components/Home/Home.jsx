@@ -30,7 +30,7 @@ export const Home = () => {
           </p>
           <a
             className="btn"
-            href="https://drive.google.com/file/d/13Ah6TlH-noVnPMA1EZpfNSZAKn0siqrp/view?usp=sharing"
+            href="https://github.com/srikanthA4/images/blob/main/Srikanth's%20Resume%20(3).pdf"
             target="_blank"
           >
              Resume
