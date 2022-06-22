@@ -196,7 +196,7 @@ export const Projects = () => {
               <h2><u>Credientls</u></h2>
               <h2>
               Admin:admin@ecommcapstone.com -->password:1234</h2>
-              User:user@ecommcapstone.com -->password:1234</h2>
+              <h2>User:user@ecommcapstone.com -->password:1234</h2>
             </NewDiv>
           </div>}
           <div className="box">
