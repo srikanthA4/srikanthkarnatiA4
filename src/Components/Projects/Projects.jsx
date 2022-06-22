@@ -67,8 +67,7 @@ export const Projects = () => {
             </div>
             <NewDiv>
               <h3>Built with Mongodb,Express,React,Nodejs </h3>
-              <h2><u>Credentials</u></h2>
-               <h2>Admin:filestorage@gmail.com password:1234 </h2 
+              
               <h3>
               This is a web application where you can upload and store your files.  Files can be sorted, filtered and deleted. Saved files can later be downloaded to any of your own devices.</h3>
             </NewDiv>
