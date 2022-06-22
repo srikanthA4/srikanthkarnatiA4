@@ -130,9 +130,9 @@ export const Projects = () => {
             </NewDiv>
           </div>
           {<div className="box">
-            <img src="https://github.com/srikanthA4/images/blob/main/aMAZON%20CLONE.png?raw=true" alt="" />
+            <img src="https://github.com/srikanthA4/images/blob/main/digitalbay.png?raw=true" alt="" />
             <div className="content">
-              <h3>Amazon clone</h3>
+              <h3>Digitalbay</h3>
               <div
                 style={{
                   display: "flex",
@@ -144,7 +144,7 @@ export const Projects = () => {
                   className="icons-git"
                   target="_blank"
                   rel="noreferrer"
-                  href="https://github.com/srikanthA4/amazonclone"
+                  href="https://github.com/srikanthA4/Digitalbay-client"
                 >
                   <img
                     style={{ height: "100%", width: "100%" }}
@@ -156,7 +156,7 @@ export const Projects = () => {
                   className="icons-git"
                   target="_blank"
                   rel="noreferrer"
-                  href="https://github.com/srikanthA4/amazonclone/tree/main/functions"
+                  href="https://github.com/srikanthA4/Digitalbay-server"
                 >
                   <img
                     style={{ height: "100%", width: "100%" }}
@@ -166,7 +166,7 @@ export const Projects = () => {
                 </a>
                 <a
                   className="icons-git"
-                  href="https://clone-36782.web.app/"
+                  href="https://digitalbay-client.vercel.app/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -184,7 +184,7 @@ export const Projects = () => {
               </h3>
               <h3>
               
-    An app called Amazon clone  with Fully Functioning AMAZON CLONE Website with Stripe Payment Gateway and Firebase Hoisting
+    An app called Digitalbay  with is used to digital products with resanable prices
               </h3>
             </NewDiv>
           </div>}
