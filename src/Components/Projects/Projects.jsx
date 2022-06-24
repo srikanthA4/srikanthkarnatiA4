@@ -189,13 +189,10 @@ export const Projects = () => {
                 Built with Mongodb,Express,React,Nodejs .
               </h3>
             <h2>Credentials</h2>
-            <h2>Admin:admin@ecommcapstone.com</h2>
-//             <h2>Password:1234</h2>
+            <h2>Admin:admin@ecommcapstone.com</h2>            
             <h2>User:user@ecommcapstone.com</h2>
             <h2>Password:1234</h2>
-              <h3>
-              
-    An app called Digitalbay is a simple eccomerce application
+              <h3>An app called Digitalbay is a simple eccomerce application
               </h3>
             </NewDiv>
            
