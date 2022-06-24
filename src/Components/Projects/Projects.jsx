@@ -192,7 +192,7 @@ export const Projects = () => {
             <h2>Admin:admin@ecommcapstone.com</h2>            
             <h2>User:user@ecommcapstone.com</h2>
             <h2>Password:1234</h2>
-              <h3>An app called Digitalbay is a simple eccomerce application to buy products.
+              <h3>An app called Digitalbay is a simple eccomerce application .
               </h3>
             </NewDiv>
            
