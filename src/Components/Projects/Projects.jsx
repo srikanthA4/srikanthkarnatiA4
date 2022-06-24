@@ -73,7 +73,7 @@ export const Projects = () => {
               <h2>password:1234</h2>
               
               <h3>
-              This is a web application where you can upload and store your files.Files can be sorted, filtered,deleted and dowload where ever you want.</h3>
+              This is a web application where you can upload and store your files.Files can be sorted, filtered,deleted and dowload.</h3>
             </NewDiv>
            
           </div>
@@ -190,12 +190,12 @@ export const Projects = () => {
               </h3>
             <h2>Credentials</h2>
             <h2>Admin:admin@ecommcapstone.com</h2>
-            <h2>Password:1234</h2>
+//             <h2>Password:1234</h2>
             <h2>User:user@ecommcapstone.com</h2>
             <h2>Password:1234</h2>
               <h3>
               
-    An app called Digitalbay is simple eccomerce application
+    An app called Digitalbay is a simple eccomerce application
               </h3>
             </NewDiv>
            
