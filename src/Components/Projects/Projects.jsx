@@ -73,7 +73,7 @@ export const Projects = () => {
               <h2>password:1234</h2>
               
               <h3>
-              This is a web application where you can upload and store your files.  Files can be sorted, filtered and deleted. Saved files can later be downloaded to any of your own devices.</h3>
+              This is a web application where you can upload and store your files.Files can be sorted, filtered,deleted and dowload where ever you want.</h3>
             </NewDiv>
            
           </div>
@@ -195,7 +195,7 @@ export const Projects = () => {
             <h2>Password:1234</h2>
               <h3>
               
-    An app called Digitalbay  with is used to digital products with resanable prices
+    An app called Digitalbay is simple eccomerce application
               </h3>
             </NewDiv>
            
