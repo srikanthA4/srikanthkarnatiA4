@@ -154,7 +154,7 @@ export const Projects = () => {
                   className="icons-git"
                   target="_blank"
                   rel="noreferrer"
-                  href="https://github.com/srikanthA4/Digitalbay-client"
+                  href="https://github.com/srikanthA4/let-connet/tree/main/client"
                 >
                   <img
                     style={{ height: "100%", width: "100%" }}
@@ -166,7 +166,7 @@ export const Projects = () => {
                   className="icons-git"
                   target="_blank"
                   rel="noreferrer"
-                  href="https://github.com/srikanthA4/Digitalbay-server"
+                  href="https://github.com/srikanthA4/let-connet"
                 >
                   <img
                     style={{ height: "100%", width: "100%" }}
@@ -176,7 +176,7 @@ export const Projects = () => {
                 </a>
                 <a
                   className="icons-git"
-                  href="https://digitalbay-client.vercel.app/"
+                  href="https://iet-community.herokuapp.com/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -195,7 +195,7 @@ export const Projects = () => {
             
               <h3>
               
-    An app called Digitalbay  with is used to digital products with reasonable prices
+    A Web App made with MERN stack, it is basically a combination of LinkedIn and StackOverflow, so that the students of a particular college can interact and get help from fellow batchmates, seniors and alumni
               </h3>
             </NewDiv>
            
