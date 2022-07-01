@@ -82,9 +82,9 @@ export const Projects = () => {
            
           </div>
           <div className="box">
-            <img src="https://github.com/srikanthA4/images/blob/main/call.png?raw=true" alt="" />
+            <img src="https://github.com/srikanthA4/images/blob/main/cook.png?raw=true" alt="" />
             <div className="content">
-              <h3>meet buddy</h3>
+              <h3>cookdetails</h3>
 
               <div
                 style={{
@@ -97,7 +97,7 @@ export const Projects = () => {
                   className="icons-git"
                   target="_blank"
                   rel="noreferrer"
-                  href="https://github.com/srikanthA4/let-meet-buddy-frontend"
+                  href="https://github.com/srikanthA4/cookdetails-frontend"
                 >
                   <img
                     style={{ height: "100%", width: "100%" }}
@@ -109,7 +109,7 @@ export const Projects = () => {
                   className="icons-git"
                   target="_blank"
                   rel="noreferrer"
-                  href="https://github.com/srikanthA4/let-meet-buddy-backend"
+                  href="https://github.com/srikanthA4/cookdetails-backend"
                 >
                   <img
                     style={{ height: "100%", width: "100%" }}
@@ -121,7 +121,7 @@ export const Projects = () => {
                   className="icons-git"
                   target="_blank"
                   rel="noreferrer"
-                  href="http://let-meet-buddy.vercel.app/"
+                  href="https://cookdetails.vercel.app/"
                 >
                   <img
                     style={{ height: "100%", width: "100%" }}
@@ -133,9 +133,9 @@ export const Projects = () => {
             </div>
             
             <NewDiv>
-              <h3>React.js, Socket.io and Peer.js</h3>
+              <h3>React.js, node.js  express.js and mondodb</h3>
               <h3>
-                 meet buddy is a app which is used to make video call and make fun with buddies
+                 About A cookdetails . Created to add, edit, read, delete recipes to maintain a database and description abook cook foor details
               </h3>
             </NewDiv>
           </div>
