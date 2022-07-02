@@ -14,10 +14,10 @@ export const Projects = () => {
           my <span>projects</span>{" "}
         </h1>
         <div align="center">
-          <h1>Credentials</h1>
-          <h2>Admin:admin@ecommcapstone.com |paswword:1234</h2>
+          <h1> Demo Credentials</h1>
+          <h2>ksreddy12@gmail.com.com |paswword:123456</h2>
           
-          <h2>User:user@ecommcapstone.com |paswword:1234</h2>
+//           <h2>User:user@ecommcapstone.com |paswword:1234</h2>
           
         </div>
 
@@ -140,7 +140,7 @@ export const Projects = () => {
             </NewDiv>
           </div>
           {<div className="box">
-            <img src="https://github.com/srikanthA4/images/blob/main/digitalbay.png?raw=true" alt="" />
+            <img src="https://github.com/srikanthA4/images/blob/main/connet.png?raw=true" alt="" />
             <div className="content">
               <h3>Digitalbay</h3>
               <div
