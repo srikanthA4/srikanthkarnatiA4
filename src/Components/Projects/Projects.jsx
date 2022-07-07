@@ -317,7 +317,7 @@ const NewDiv = styled.div`
     font-size: 1.5rem;
     font-weight: 600;
     color: var(--black);
-    text-transform: lowercase;
+    text-transform: uppercase;
     padding: 1rem 1rem;
   }
 `;
