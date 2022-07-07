@@ -15,7 +15,7 @@ export const Projects = () => {
         </h1>
         <div align="center">
           <h1> Demo Credentials</h1>
-          <h3 >ksreddy12@gmail.com |paswword:123456</h3>
+          <h2 >ksreddy12@gmail.com |paswword:123456</h2>
           
 
           
