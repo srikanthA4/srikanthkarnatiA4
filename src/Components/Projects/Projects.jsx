@@ -142,7 +142,7 @@ export const Projects = () => {
           {<div className="box">
             <img src="https://github.com/srikanthA4/images/blob/main/connet.png?raw=true" alt="" />
             <div className="content">
-              <h3>let-connet</h3
+              <h3>let-connet</h3>
               <div
                 style={{
                   display: "flex",
