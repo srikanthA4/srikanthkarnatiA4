@@ -45,7 +45,7 @@
 .portfolio .box-container .box .content h3 {
   font-size: 2.5rem;
   color: var(--black);
-  text-transform: uppercase;
+  text-transform: lowercase;
   transform: translateY(-5rem);
   opacity: 0;
   transition-delay: 0.3s;
