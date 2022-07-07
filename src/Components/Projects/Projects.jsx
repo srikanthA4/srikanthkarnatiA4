@@ -15,7 +15,7 @@ export const Projects = () => {
         </h1>
         <div align="center">
           <h1> Demo Credentials</h1>
-          <h2 style= "text-transform: lowerrcase ">KSREDDY12@GMAIL.COM |paswword:123456</h2>
+          <h3 >KSREDDY12@GMAIL.COM |paswword:123456</h3>
           
 
           
@@ -317,7 +317,7 @@ const NewDiv = styled.div`
     font-size: 1.5rem;
     font-weight: 600;
     color: var(--black);
-    text-transform: uppercase;
+    text-transform: lowercase;
     padding: 1rem 1rem;
   }
 `;
