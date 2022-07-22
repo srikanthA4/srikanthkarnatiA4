@@ -97,7 +97,7 @@ export const Projects = () => {
                   className="icons-git"
                   target="_blank"
                   rel="noreferrer"
-                  href="https://github.com/srikanthA4/cookdetails-frontend"
+                  href="https://github.com/srikanthA4/emart/tree/main/client"
                 >
                   <img
                     style={{ height: "100%", width: "100%" }}
@@ -109,7 +109,7 @@ export const Projects = () => {
                   className="icons-git"
                   target="_blank"
                   rel="noreferrer"
-                  href="https://github.com/srikanthA4/cookdetails-backend"
+                  href="https://github.com/srikanthA4/emart"
                 >
                   <img
                     style={{ height: "100%", width: "100%" }}
@@ -121,7 +121,7 @@ export const Projects = () => {
                   className="icons-git"
                   target="_blank"
                   rel="noreferrer"
-                  href="https://cookdetails.vercel.app/"
+                  href="https://shop-on-emart.herokuapp.com/"
                 >
                   <img
                     style={{ height: "100%", width: "100%" }}
@@ -135,7 +135,8 @@ export const Projects = () => {
             <NewDiv>
               <h3>React.js, node.js  express.js and mondodb</h3>
               <h3>
-                 About A cookdetails . Created to add, edit, read, delete recipes to maintain a database and description abook cook foor details
+     
+              eMart is your 'one-stop shopping destination'. Shop your favorite brands at a discounted price.
               </h3>
             </NewDiv>
           </div>
@@ -201,9 +202,9 @@ export const Projects = () => {
            
           </div>}
           <div className="box">
-            <img src="https://github.com/srikanthA4/images/blob/main/postshare.png?raw=true" alt="" />
+            <img src="https://github.com/srikanthA4/images/blob/main/cook.png?raw=true" alt="" />
             <div className="content">
-              <h3>Post App</h3>
+              <h3>cookdetails</h3>
               <div
                 style={{
                   display: "flex",
@@ -215,7 +216,7 @@ export const Projects = () => {
                   className="icons-git"
                   target="_blank"
                   rel="noreferrer"
-                  href="https://github.com/srikanthA4/post-share-frontend"
+                  href="https://github.com/srikanthA4/cookdetails-frontend"
                 >
                   <img
                     style={{ height: "100%", width: "100%" }}
@@ -227,7 +228,7 @@ export const Projects = () => {
                   className="icons-git"
                   target="_blank"
                   rel="noreferrer"
-                  href="https://github.com/srikanthA4/post-share-backend"
+                  href="https://github.com/srikanthA4/cookdetails-backend"
                 >
                   <img
                     style={{ height: "100%", width: "100%" }}
@@ -237,7 +238,7 @@ export const Projects = () => {
                 </a>
                 <a
                   className="icons-git"
-                  href="https://postshare.netlify.app/"
+                  href="https://cookdetails.vercel.app/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -252,7 +253,7 @@ export const Projects = () => {
             <NewDiv>
               <h3>HTML,CSS,Bootstrap,Nodejs,Expressjs,MONGODB.</h3>
              
-              <h3>  A  Post share is a simple social media application with users, posts, likes and comments.</h3>
+              <h3> About A cookdetails . Created to add, edit, read, delete recipes to maintain a database and description abook cook foor details.</h3>
             </NewDiv>
 
           </div>
