@@ -15,7 +15,8 @@ export const Projects = () => {
         </h1>
         <div align="center">
           <h1> Demo Credentials</h1>
-          <h2 >ksreddy12@gmail.com |paswword:123456</h2>
+          <h2 > User:ksreddy12@gmail.com |paswword:123456</h2>
+          <h2>Admin:admin12@gmail.com|password:123456</h2>
           
 
           
@@ -82,9 +83,9 @@ export const Projects = () => {
            
           </div>
           <div className="box">
-            <img src="https://github.com/srikanthA4/images/blob/main/cook.png?raw=true" alt="" />
+            <img src="https://github.com/srikanthA4/images/blob/main/eem.png?raw=true" alt="" />
             <div className="content">
-              <h3>cookdetails</h3>
+              <h3>E-mart</h3>
 
               <div
                 style={{
