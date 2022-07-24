@@ -29,7 +29,7 @@ export const Resume = () => {
             <Text>
               <span id="span" className="heading ">
                 CSS
-              </span>
+              </span> 
             </Text>
           </Card>
           <Card>
