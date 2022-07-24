@@ -54,7 +54,7 @@ export const Resume = () => {
           </Card>
           <Card>
             <Image>
-              <img src="https://github.com/srikanthA4/my-Portfolio/blob/main/src/assets/projects/bootstrap5.jpg?raw=true" alt="" />
+              <img src="https://cdn.dribbble.com/users/595/screenshots/14417863/bootstrap-new-logo_4x.png" alt="" />
             </Image>
             <Text>
               <span id="span" className="heading ">
