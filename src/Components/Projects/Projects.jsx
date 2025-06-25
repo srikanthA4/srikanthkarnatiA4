@@ -12,14 +12,14 @@ export const Projects = () => {
           {" "}
           my <span>projects</span>{" "}
         </h1>
-        <div align="center">
-         <!-- <h1> Demo Credentials</h1>
-          <h2 > User:ksreddy123@gmail.com |paswword:123456</h2>
-          <h2> Emart-Admin:admin12@gmail.com|password:123456</h2>-->
+        # <div align="center">
+        #   <h1> Demo Credentials</h1>
+        #   <h2 > User:ksreddy123@gmail.com |paswword:123456</h2>
+        #   <h2> Emart-Admin:admin12@gmail.com|password:123456</h2>
           
 
           
-        </div>
+        # </div>
 
        <div className="box-container">
         <div className="box">
