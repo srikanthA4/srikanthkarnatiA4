@@ -1,4 +1,3 @@
-/** @format */
 
 import React from "react";
 import "./Portfolio.css";
@@ -59,17 +58,17 @@ export const Projects = () => {
                     alt=""
                   />
                 </a>
-                <!--<a
-                  className="icons-git"
-                  target="_blank"
-                  rel="noreferrer"
-                  href="http://file-storage-mern.vercel.app/"
-                >
-                  <img
-                    style={{ height: "100%", width: "100%" }}
-                    src="/Images/globe-solid.svg"
-                    alt=""
-                  /> -->
+                # <a
+                #   className="icons-git"
+                #   target="_blank"
+                #   rel="noreferrer"
+                #   href="http://file-storage-mern.vercel.app/"
+                # >
+                #   <img
+                #     style={{ height: "100%", width: "100%" }}
+                #     src="/Images/globe-solid.svg"
+                #     alt=""
+                #   /> 
                 </a>
               </div>
             </div>
@@ -118,17 +117,17 @@ export const Projects = () => {
                     alt=""
                   />
                 </a>
-               <!-- <a
-                  className="icons-git"
-                  target="_blank"
-                  rel="noreferrer"
-                  href="https://shop-on-emart.herokuapp.com/"
-                >
-                  <img
-                    style={{ height: "100%", width: "100%" }}
-                    src="/Images/globe-solid.svg"
-                    alt=""
-                  /> -->
+                # <a
+                #   className="icons-git"
+                #   target="_blank"
+                #   rel="noreferrer"
+                #   href="https://shop-on-emart.herokuapp.com/"
+                # >
+                #   <img
+                #     style={{ height: "100%", width: "100%" }}
+                #     src="/Images/globe-solid.svg"
+                #     alt=""
+                #   /> 
                 </a>
               </div>
             </div>
@@ -176,17 +175,17 @@ export const Projects = () => {
                     alt=""
                   />
                 </a>
-               <!-- <a
-                  className="icons-git"
-                  href="https://iet-community.herokuapp.com/"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img
-                    style={{ height: "100%", width: "100%" }}
-                    src="/Images/globe-solid.svg"
-                    alt=""
-                  /> -->
+                # <a
+                #   className="icons-git"
+                #   href="https://iet-community.herokuapp.com/"
+                #   target="_blank"
+                #   rel="noreferrer"
+                # >
+                #   <img
+                #     style={{ height: "100%", width: "100%" }}
+                #     src="/Images/globe-solid.svg"
+                #     alt=""
+                #   /> 
                 </a>
               </div>
             </div>
@@ -237,17 +236,17 @@ export const Projects = () => {
                     alt=""
                   />
                 </a>
-               <!-- <a
-                  className="icons-git"
-                  href="https://cookdetails.vercel.app/"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <img
-                    style={{ height: "100%", width: "100%" }}
-                    src="/Images/globe-solid.svg"
-                    alt=""
-                  /> -->
+                # <a
+                #   className="icons-git"
+                #   href="https://cookdetails.vercel.app/"
+                #   target="_blank"
+                #   rel="noreferrer"
+                # >
+                #   <img
+                #     style={{ height: "100%", width: "100%" }}
+                #     src="/Images/globe-solid.svg"
+                #     alt=""
+                #   /> 
                 </a>
               </div>
             </div>
@@ -282,17 +281,17 @@ export const Projects = () => {
                     alt=""
                   />
                 </a>
-               <!-- <a
-                  className="icons-git"
-                  target="_blank"
-                  rel="noreferrer"
-                  href="https://superlative-hamster-93e7e6.netlify.app/"
-                >
-                  <img
-                    style={{ height: "100%", width: "100%" }}
-                    src="/Images/globe-solid.svg"
-                    alt=""
-                  /> -->
+                # <a
+                #   className="icons-git"
+                #   target="_blank"
+                #   rel="noreferrer"
+                #   href="https://superlative-hamster-93e7e6.netlify.app/"
+                # >
+                #   <img
+                #     style={{ height: "100%", width: "100%" }}
+                #     src="/Images/globe-solid.svg"
+                #     alt=""
+                #   /> 
                 </a>
               </div>
             </div>
