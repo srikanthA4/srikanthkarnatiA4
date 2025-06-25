@@ -59,7 +59,7 @@ export const Projects = () => {
                     alt=""
                   />
                 </a>
-                <a
+                <!--<a
                   className="icons-git"
                   target="_blank"
                   rel="noreferrer"
@@ -69,7 +69,7 @@ export const Projects = () => {
                     style={{ height: "100%", width: "100%" }}
                     src="/Images/globe-solid.svg"
                     alt=""
-                  />
+                  /> -->
                 </a>
               </div>
             </div>
@@ -118,7 +118,7 @@ export const Projects = () => {
                     alt=""
                   />
                 </a>
-                <a
+               <!-- <a
                   className="icons-git"
                   target="_blank"
                   rel="noreferrer"
@@ -128,7 +128,7 @@ export const Projects = () => {
                     style={{ height: "100%", width: "100%" }}
                     src="/Images/globe-solid.svg"
                     alt=""
-                  />
+                  /> -->
                 </a>
               </div>
             </div>
@@ -176,7 +176,7 @@ export const Projects = () => {
                     alt=""
                   />
                 </a>
-                <a
+               <!-- <a
                   className="icons-git"
                   href="https://iet-community.herokuapp.com/"
                   target="_blank"
@@ -186,7 +186,7 @@ export const Projects = () => {
                     style={{ height: "100%", width: "100%" }}
                     src="/Images/globe-solid.svg"
                     alt=""
-                  />
+                  /> -->
                 </a>
               </div>
             </div>
@@ -237,7 +237,7 @@ export const Projects = () => {
                     alt=""
                   />
                 </a>
-                <a
+               <!-- <a
                   className="icons-git"
                   href="https://cookdetails.vercel.app/"
                   target="_blank"
@@ -247,7 +247,7 @@ export const Projects = () => {
                     style={{ height: "100%", width: "100%" }}
                     src="/Images/globe-solid.svg"
                     alt=""
-                  />
+                  /> -->
                 </a>
               </div>
             </div>
@@ -282,7 +282,7 @@ export const Projects = () => {
                     alt=""
                   />
                 </a>
-                <a
+               <!-- <a
                   className="icons-git"
                   target="_blank"
                   rel="noreferrer"
@@ -292,7 +292,7 @@ export const Projects = () => {
                     style={{ height: "100%", width: "100%" }}
                     src="/Images/globe-solid.svg"
                     alt=""
-                  />
+                  /> -->
                 </a>
               </div>
             </div>
