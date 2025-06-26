@@ -12,14 +12,11 @@ export const Projects = () => {
           {" "}
           my <span>projects</span>{" "}
         </h1>
-         <div align="center">
+         {/* <div align="center">
          <h1> Demo Credentials</h1>
            <h2 > User:ksreddy123@gmail.com |paswword:123456</h2>
           <h2> Emart-Admin:admin12@gmail.com|password:123456</h2>
-          
-
-          
-       </div>
+          </div> */}
 
        <div className="box-container">
         <div className="box">
@@ -58,7 +55,7 @@ export const Projects = () => {
                     alt=""
                   />
                 </a>
-                 <a
+                 {/* <a
                   className="icons-git"
                    target="_blank"
                    rel="noreferrer"
@@ -69,7 +66,7 @@ export const Projects = () => {
                      src="/Images/globe-solid.svg"
                      alt=""
                   /> 
-                </a>
+                </a> */}
               </div>
             </div>
             <NewDiv>
@@ -117,7 +114,7 @@ export const Projects = () => {
                     alt=""
                   />
                 </a>
-                <a
+                {/* <a
                    className="icons-git"
                    target="_blank"
                    rel="noreferrer"
@@ -128,7 +125,7 @@ export const Projects = () => {
                      src="/Images/globe-solid.svg"
                      alt=""
                    /> 
-                </a>
+                </a> */}
               </div>
             </div>
             
@@ -175,7 +172,7 @@ export const Projects = () => {
                     alt=""
                   />
                 </a>
-                 <a
+                 {/* <a
                    className="icons-git"
                    href="https://iet-community.herokuapp.com/"
                    target="_blank"
@@ -186,7 +183,7 @@ export const Projects = () => {
                      src="/Images/globe-solid.svg"
                      alt=""
                    /> 
-                </a>
+                </a> */}
               </div>
             </div>
             <NewDiv>
@@ -236,7 +233,7 @@ export const Projects = () => {
                     alt=""
                   />
                 </a>
-                 <a
+                 {/* <a
                    className="icons-git"
                    href="https://cookdetails.vercel.app/"
                    target="_blank"
@@ -247,7 +244,7 @@ export const Projects = () => {
                      src="/Images/globe-solid.svg"
                     alt=""
                    /> 
-                </a>
+                </a> */}
               </div>
             </div>
             <NewDiv>
@@ -281,7 +278,7 @@ export const Projects = () => {
                     alt=""
                   />
                 </a>
-                 <a
+                 {/* <a
                    className="icons-git"
                    target="_blank"
                    rel="noreferrer"
@@ -292,7 +289,7 @@ export const Projects = () => {
                     src="/Images/globe-solid.svg"
                      alt=""
                    /> 
-                </a>
+                </a> */}
               </div>
             </div>
             <NewDiv>
